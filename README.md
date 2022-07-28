@@ -9,6 +9,7 @@ Model: roberta-large, base one is fine, too.
 NB:
  - #hashtags seem important, preserving them improves the accuracy a bit;
  - t.co URLs were dropped.
+ - Locations and keywords ignored.
 
 Makes use of those nice Huggingface units:
 - transformers
